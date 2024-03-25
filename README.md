@@ -53,7 +53,6 @@ Successfully installed Active Directory domain services on the domain controller
 <img src="https://i.imgur.com/RS4LjlN.png"<
   /p>
 <p>
-Additonal users are being ![image](https://github.com/Baljeet209/configure-ad/assets/163678715/11a34389-1ab0-487e-a91f-ccc128312cef)
-created in Powershell ISE using a script 
+Additonal users are being created in Powershell ISE using a script 
 </p>
 <br />
